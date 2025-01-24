@@ -1,6 +1,6 @@
 """
 Peter Botros
-lab3.py
+ScoreFinder.py
 9/16/2024
 """
 # This program will average test scores to determine if a student passes or not.
